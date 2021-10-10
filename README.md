@@ -1,0 +1,1 @@
+This is Shimazaky80's first git project!
